@@ -29,9 +29,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSoni2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-
 ## 🐍 Watch this snake slither through my contributions!  
 ![GitHub Snake dark](https://raw.githubusercontent.com/HarshitSoni2004/HarshitSoni2004/output/github-snake-dark.svg)
 
